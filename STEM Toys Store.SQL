@@ -1,0 +1,10 @@
+USE `salesledger`;
+INSERT INTO `MERCHANDISE` ( DESCRIPTION, PRICE, SELLER, AVAILABLE) VALUES( "Skillofun Plastic Beads Set (50 beads), Multi Color", 29.60,   14,  1);
+INSERT INTO `MERCHANDISE` ( DESCRIPTION, PRICE, SELLER, AVAILABLE) VALUES( "Skillofun Wooden Large Shapes Tray (Multicolour),for-Kid", 46.00,  187,  1);
+INSERT INTO `MERCHANDISE` ( DESCRIPTION, PRICE, SELLER, AVAILABLE) VALUES( "Ekta The Young Scientist Set - 2", 35.20,   81,  2);
+INSERT INTO `MERCHANDISE` ( DESCRIPTION, PRICE, SELLER, AVAILABLE) VALUES( "CocoMoco Kids India Map with Stickers", 34.90,    2,  2);
+INSERT INTO `MERCHANDISE` ( DESCRIPTION, PRICE, SELLER, AVAILABLE) VALUES( "Squishy Human Body (SmartLAB)", 60.99,  166,  2);
+INSERT INTO `MERCHANDISE` ( DESCRIPTION, PRICE, SELLER, AVAILABLE) VALUES( "LogicRoots Ocean Raiders Math Addition Board Game", 50.99,  195,  1);
+INSERT INTO `MERCHANDISE` ( DESCRIPTION, PRICE, SELLER, AVAILABLE) VALUES( "Skillofun Wooden Beads Set, Multi Color (50 Beads)", 29.60,  145,  2);
+INSERT INTO `MERCHANDISE` ( DESCRIPTION, PRICE, SELLER, AVAILABLE) VALUES( "Kutuhal Algebraic Expression UnderstAnding using Tiles.", 31.50,    9,  1);
+INSERT INTO `MERCHANDISE` ( DESCRIPTION, PRICE, SELLER, AVAILABLE) VALUES( "Happy KidzArt & Craft Toys Greeting Craft Toys for Kids", 38.50,  114,  1);
